@@ -1,8 +1,8 @@
-### Hello There, I'm ${\color{lightgreen}Jusi}$ 👋
-I help businesses turn their vision into ${\color{lightgreen}software}$
+### Hello There, I'm Jusi 👋
+I help businesses turn their vision into **software**
 
 ---
-### 📚 ${\color{lightgreen}About Me}$
+### 📚 About Me
 
 - 👨🏻‍💻 Full-Stack Developer
 - 🌱 Currently learning and building with **NextJS**, **TailwindCSS**, and **Prisma**
@@ -13,7 +13,8 @@ I help businesses turn their vision into ${\color{lightgreen}software}$
 
 ---
 
-### 🧪 ${\color{lightgreen}Tech \space Stack}$
+### 🧪 Tech Stack
+
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
